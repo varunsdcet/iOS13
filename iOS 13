@@ -2,6 +2,7 @@ leading constanint multipliew 20/320
 trailing 320/300
 ioS 12 with ios 13
 in appdelegate
+Scrollview 4 constraint -> view 4 constraint - equalheight-equal width - height low priorityy 250
 func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         let pageControl = UIPageControl.appearance()
         pageControl.pageIndicatorTintColor = UIColor.white
